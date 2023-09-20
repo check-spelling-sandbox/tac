@@ -1,5 +1,7 @@
 # OpenSSF Technical Vision
 
+dfdhjsfkdhsfkjsdhfjk h dshfjksdhfkjdshfkjsdfh dsfhsdjkfhsdjkfsdfd
+
 An aspirational view of the future we seek to create in 2-5 years:
 
 ## The OpenSSF is a trusted partner to affiliated open source foundations and projects, and provides valuable services to those projects and foundations.
